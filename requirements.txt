@@ -1,0 +1,11 @@
+SpeechRecognition
+requests
+edge-tts
+pygame
+wikipedia
+pyautogui
+psutil
+google-generativeai
+pycaw
+comtypes
+pyaudio
